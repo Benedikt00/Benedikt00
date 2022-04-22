@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Benedikt00
 - 👀 I’m interested in lots of things
 - 🌱 I’m currently learning Python
+- I'm also doing webdevelopnment
 
 <!---
 Benedikt00/Benedikt00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
